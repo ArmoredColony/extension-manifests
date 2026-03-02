@@ -1,0 +1,18 @@
+schema_version = '1.0.0'
+
+id = 'PixiePivot'
+name = 'Pixie Pivot'
+version = '1.2.0'
+tagline = 'Snap and Align the 3D cursor to mesh elements and bounding boxes'
+
+type = 'add-on'
+tags = ['Workflow']
+
+maintainer = 'Armored Colony'
+website = 'https://github.com/ArmoredColony/PixiePivot'
+
+blender_version_min = '4.2.0'
+
+license = [
+  'SPDX:GPL-3.0-or-later',
+]
